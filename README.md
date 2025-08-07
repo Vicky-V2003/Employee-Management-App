@@ -46,16 +46,9 @@ Employee-Management-App/
      phone VARCHAR(10) UNIQUE
    );
 
-2. Configure your `db.py` credentials:
-   mysql.connector.connect(
-     host='localhost',
-     user='root',
-     password='your password',
-     database='your database'
-   )
+2. Configure your `db.py` credentials
+   
 3. Install dependencies and run the backend:
-   pip install flask flask-cors mysql-connector-python
-   python app.py
  Backend runs on `http://127.0.0.1:3000`.
 
 ### Frontend
