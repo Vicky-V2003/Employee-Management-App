@@ -1,2 +1,22 @@
-# Employee-Management-App
-This Employee Management System is a full-stack web application that allows users to manage employee records. It supports Create, Read, Update, and Delete (CRUD) operations. The frontend is built using HTML, CSS, and JavaScript, and it interacts with a backend developed in Flask. Data is stored and managed using a MySQL database.  
+# Employee Management System (Flask + MySQL)
+
+This is a simple Employee Management System built using Flask (Python backend), MySQL for data storage, and a front-end developed with HTML, CSS, and JavaScript.
+
+## 📌 Features
+
+- 🧑 Add new employee records
+- 📋 View all employees
+- ✏️ Inline edit and update employee details
+- ❌ Delete employee records with confirmation popup
+- 💡 Real-time UI updates using fetch API
+
+## 🛠️ Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Python (Flask)
+- **Database**: MySQL
+- **Other Tools**: MySQL Workbench, Postman (for testing APIs)
+
+## 🔧 Setup Instructions
+
+
